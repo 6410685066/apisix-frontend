@@ -58,4 +58,5 @@ yarn build
 ```bash
 docker build -t react-app .
 ```
-
+## Architecture Diagram
+![System Architecture](diagram.png)
