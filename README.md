@@ -16,24 +16,24 @@ React dashboard frontend for APISIX Custom Dashboard using Vite and MUI.
 ## Setup
 
 1. Clone repo:
-   ```bash
-   git clone https://github.com/6410685066/apisix-frontend.git
-   cd apisix-frontend
-   ```
+```bash
+git clone https://github.com/6410685066/apisix-frontend.git
+cd apisix-frontend
+```
 
 2. Install dependencies:
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
+```bash
+npm install
+# or
+yarn install
+```
 
 3. Start dev server:
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
+```bash
+npm run dev
+# or
+yarn dev
+```
 
 4. Access UI at `http://localhost:5173`
 
