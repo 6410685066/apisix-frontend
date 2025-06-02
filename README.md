@@ -35,7 +35,7 @@ npm run dev
 yarn dev
 ```
 
-4. Access UI at `http://localhost:5173`
+4. Access the UI at [`http://localhost:5173`](http://localhost:5173)
 
 ## Environment variables (optional)
 
